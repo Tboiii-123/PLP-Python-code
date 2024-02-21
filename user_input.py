@@ -1,0 +1,7 @@
+print('Insert your name:')
+name =input()
+print('insert your age:')
+age=input()
+print('Insert your location:')
+location=input()
+print(f'Hello {name} ,you are {age} years old and you live in {location}')
